@@ -2,7 +2,7 @@
 
 Minimal example of a possible bug in sphinx.
 
-On Sphinx `5.3.0`. To reproduce: In the directory `sphinxbugtest`, do
+On Sphinx `5.3.0`. To reproduce: In the repo, do
 
 ```
 mkdir docs
