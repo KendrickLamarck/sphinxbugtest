@@ -1,6 +1,6 @@
 # sphinxbugtest
 
-Minimal example of a possible bug in sphinx.
+Minimal example for sphinx bug https://github.com/sphinx-doc/sphinx/issues/11050.
 
 On Sphinx `5.3.0`. To reproduce: In the repo, do
 
